@@ -1,0 +1,15 @@
+{
+	"category" : "GameOfLife",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"columns",
+		"rows" ],
+	"name" : "GameOfLifeMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
