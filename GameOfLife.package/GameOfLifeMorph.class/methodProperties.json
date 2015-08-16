@@ -2,5 +2,13 @@
 	"class" : {
 		"rows:columns:" : "ldfallas 8/15/2015 06:28" },
 	"instance" : {
+		"disableMouseInteraction" : "ldfallas 8/15/2015 09:46",
 		"drawOn:" : "ldfallas 8/15/2015 07:24",
-		"rows:columns:" : "ldfallas 8/15/2015 06:30" } }
+		"enableMouseInteraction" : "ldfallas 8/15/2015 09:45",
+		"getCellValue:column:" : "ldfallas 8/15/2015 20:56",
+		"getNextGenerationFor:column:" : "ldfallas 8/15/2015 22:17",
+		"handlesMouseDown:" : "ldfallas 8/15/2015 09:48",
+		"mouseDown:" : "ldfallas 8/15/2015 21:31",
+		"rows:columns:" : "ldfallas 8/15/2015 22:08",
+		"step" : "ldfallas 8/15/2015 22:18",
+		"stepTime" : "ldfallas 8/15/2015 22:20" } }

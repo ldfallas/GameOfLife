@@ -8,7 +8,9 @@
 	"instvars" : [
 		"columns",
 		"rows",
-		"content" ],
+		"content",
+		"mouseInteraction",
+		"nextGrid" ],
 	"name" : "GameOfLifeMorph",
 	"pools" : [
 		 ],

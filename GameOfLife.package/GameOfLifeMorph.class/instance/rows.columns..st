@@ -4,5 +4,8 @@ rows: rowCount columns: columnCount
        rows := rowCount.
        columns := columnCount.
        content := Matrix rows: rows columns: columns.
+       nextGrid :=Matrix rows: rows columns: columns.
        content atAllPut: 0.
+       mouseInteraction := false.
+       self stopStepping.
        ^self.
