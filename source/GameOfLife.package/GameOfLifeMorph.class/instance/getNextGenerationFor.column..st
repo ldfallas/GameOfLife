@@ -1,4 +1,4 @@
-as yet unclassified
+game of life rules
 getNextGenerationFor: row column: column
 	"Verifies the Game Of Life rules"
       |topLeft top topRight left right bottomLeft bottomRight bottom neighbors|

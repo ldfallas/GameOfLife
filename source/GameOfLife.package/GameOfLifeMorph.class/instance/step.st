@@ -1,4 +1,4 @@
-as yet unclassified
+stepping and presenter
 step
 	"Verifies the rules of the Game Of Life"
 	| tmp |

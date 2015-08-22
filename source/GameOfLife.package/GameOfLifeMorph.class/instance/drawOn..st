@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 drawOn: canvas
 	"Draws the game of life widget with the current state"
 

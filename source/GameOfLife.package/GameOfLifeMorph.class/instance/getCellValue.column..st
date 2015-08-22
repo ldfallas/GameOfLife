@@ -1,4 +1,4 @@
-as yet unclassified
+game of life rules
 getCellValue: row column: column
 	"Gets the value of the specified cell"
       ^ ((row < 1) | (row > rows) | (column > columns) | (column < 1))
